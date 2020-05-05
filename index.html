@@ -51,7 +51,7 @@
 <link href="frontend\css\responsive.css?version=0.0.5" rel="stylesheet">
 <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
 <script src="tipuesearch/tipuesearch_content.js"></script>
 <link rel="stylesheet" href="tipuesearch/tipuesearch.css">
 <script src="tipuesearch/tipuesearch_set.js"></script>
@@ -79,8 +79,11 @@
 <div class="topsrch suba_rel nohide td vam" itemscope="" itemtype="http://schema.org/WebSite">
 <link itemprop="url" href="index.htm">
 <form action="search.html">
-<input type="text" name="q" id="tipue_search_input">
+<div class="tipue_search_group">
+<input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required><button type="submit" class="tipue_search_button"><div class="tipue_search_icon">&#9906;</div></button>
+</div>
 </form>
+
 </div>
 <div class="user td vam tal">
 <div class="subm nos">

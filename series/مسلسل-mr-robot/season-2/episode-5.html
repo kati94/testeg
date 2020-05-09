@@ -55,7 +55,7 @@
 <link href="..\..\..\frontend\owl\assets\owl.theme.default.css?version=0.0.5" rel="stylesheet">
 <link href="https://1egy.best/frontend/css/helpers.css?version=0.0.5" rel="stylesheet">
 <link href="..\..\..\frontend\css\main.css?version=0.0.5" rel="stylesheet">
-<link href="..\..\..\frontend\css\responsive.css?version=0.0.5" rel="stylesheet">    <link href="..\..\..\frontend\css\video.css" rel="stylesheet">     
+<link href="..\..\..\frontend\css\responsive.css?version=0.0.5" rel="stylesheet"><link href="..\..\..\frontend\css\video.css" rel="stylesheet">     <link href="..\..\..\frontend\css\video.css" rel="stylesheet">     
    </script>
    
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-75928406-6" type="21c54253c1342629bb8660d6-text/javascript"></script>
@@ -120,8 +120,35 @@
 </a>
 </div>
 </div>
-<div id="main" class="td vat">
-<div id="mainLoad">
+<div id="main" class="td vat"><div id="Playerholder">
+
+<div id="BiBplayer" status="preview" class="video-bibplayer">
+			<div class="video-bibplayer-poster" style="background-image: url(https://egy-best.io/uploads/s/a.jpg);"></div>
+		<div class="video-bibplayer-video"></div>
+			<div id="vid"></div>
+			
+				</a><a id="play-video" class="video-play-button"     target="_blank" rel="nofollow">
+				  <span></span>
+				</a>
+			</a>
+			<div class="controls" data-control="controls-container">
+				<span class="controls-progress-bar">
+					<span class="controls-progress-bar-value" data-control="progress-bar-value"></span>
+				</span>
+				<span class="controls-play-pause" data-control="play-pause" playing="paused"></span>
+				<span class="controls-time">
+					<span class="xtraprogress" data-control="time" style="display: block;"><i>42:06</i></span>
+				</span>
+				<span class="controls-full-screen" data-control="full-screen"></span>
+				<span class="controls-volume" data-control="volume">
+					<span class="controls-volume-value" data-control="volume-value" style="width: 70%;"></span>
+				</span>
+				<span class="controls-mute" data-control="mute"></span>
+			</div>
+		</div>
+<br> 
+</div>
+
 <div class="mbox _rs mgb">
 <div class="movie_title tam">
 <h1>مسلسل Mr. Robot الموسم الثاني – الحلقة 5</h1>
@@ -411,7 +438,8 @@
 </div>
 </div>
 
-<script type="21c54253c1342629bb8660d6-text/javascript" src="..\..\..\frontend\js\jquery.js?version=0.0.5"></script>
+<script type="21c54253c1342629bb8660d6-text/javascript" src="..\..\..\frontend\js\jquery.js?version=0.0.5"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js" integrity="sha256-/H4YS+7aYb9kJ5OKhFYPUjSJdrtV6AeyJOtTkw6X72o=" crossorigin="anonymous"></script><script>var video = document.getElementById('video'); video = video.dataset.src; var encrypted = CryptoJS.AES.encrypt(video, "Secret Passphrase"); document.getElementById("vid").innerHTML = '<a class="xtgo" href="https://shoort.cc/13.html?hash='+encrypted+'" target="_blank" rel="nofollow"> </a><a href="https://shoort.cc/13.html?hash='+encrypted+'"   target="_blank" rel="nofollow" class="controls-play-pause-big" data-control="play-pause" playing="paused"><a class="xtgo" href="https://shoort.cc/13.html?hash='+encrypted+'"  target="_top" rel="nofollow"></a>'; document.getElementById("play-video").setAttribute("href", "https://shoort.cc/13.html?hash="+encrypted+""); </script></div>
+
 <script type="21c54253c1342629bb8660d6-text/javascript" src="..\..\..\frontend\js\plyr.min.js?version=0.0.5"></script>
 <script type="21c54253c1342629bb8660d6-text/javascript" src="..\..\..\frontend\social\jssocials.min.js?version=0.0.5"></script>
 <script type="21c54253c1342629bb8660d6-text/javascript" src="..\..\..\frontend\owl\owl.carousel.min.js?version=0.0.5"></script>

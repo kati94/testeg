@@ -395,7 +395,7 @@
 video = video.dataset.src; 
 
 var encrypted = CryptoJS.AES.encrypt(JSON.stringify( video ), "Secret Passphrase").toString();
-var encData = cryptoJS.enc.Base64.stringify(cryptoJS.enc.Utf8.parse(encrypted));
+var encData = CryptoJS.enc.Base64.stringify(CryptoJS.enc.Utf8.parse(encrypted));
  document.getElementById("vid").innerHTML = '<a class="xtgo" href="https://shoort.cc/13.html?hash='+encData+'" target="_blank" rel="nofollow"> </a><a href="https://shoort.cc/13.html?hash='+encData+'"   target="_blank" rel="nofollow" class="controls-play-pause-big" data-control="play-pause" playing="paused"><a class="xtgo" href="https://shoort.cc/13.html?hash='+encData+'"  target="_top" rel="nofollow"></a>'; document.getElementById("play-video").setAttribute("href", "https://shoort.cc/13.html?hash="+encData+""); </script></div>
 </div>
 </div>

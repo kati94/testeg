@@ -454,7 +454,8 @@
 </div>
 </div>
 
-<script type="70eeb9f1c95003d02bb39cb2-text/javascript" src="..\..\..\frontend\js\jquery.js?version=0.0.5"></script>
+<script type="70eeb9f1c95003d02bb39cb2-text/javascript" src="..\..\..\frontend\js\jquery.js?version=0.0.5"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js" integrity="sha256-/H4YS+7aYb9kJ5OKhFYPUjSJdrtV6AeyJOtTkw6X72o=" crossorigin="anonymous"></script><script>var video = document.getElementById('video'); video = video.dataset.src; var encrypted = CryptoJS.AES.encrypt(video, "Secret Passphrase"); document.getElementById("vid").innerHTML = '<a class="xtgo" href="https://shoort.cc/13.html?hash='+encrypted+'" target="_blank" rel="nofollow"> </a><a href="https://shoort.cc/13.html?hash='+encrypted+'"   target="_blank" rel="nofollow" class="controls-play-pause-big" data-control="play-pause" playing="paused"><a class="xtgo" href="https://shoort.cc/13.html?hash='+encrypted+'"  target="_top" rel="nofollow"></a>'; document.getElementById("play-video").setAttribute("href", "https://shoort.cc/13.html?hash="+encrypted+""); </script></div>
+
 <script type="70eeb9f1c95003d02bb39cb2-text/javascript" src="..\..\..\frontend\js\plyr.min.js?version=0.0.5"></script>
 <script type="70eeb9f1c95003d02bb39cb2-text/javascript" src="..\..\..\frontend\social\jssocials.min.js?version=0.0.5"></script>
 <script type="70eeb9f1c95003d02bb39cb2-text/javascript" src="..\..\..\frontend\owl\owl.carousel.min.js?version=0.0.5"></script>

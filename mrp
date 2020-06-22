@@ -1,0 +1,394 @@
+<div id="rightSide">
+<div id="headerRightSide">
+<p class="p1">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ø§Ù„ÙŠÙˆÙ…</p>
+<p class="p2">22/06/2020</p>
+</div>
+<div id="contentRightSide">
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/4799f667c65f8d66ca09f58099c0d647.gif);"></div></td>
+<td class="tdTeam">Ù„ÙŠØªØ´ÙŠ</td>
+<td class="tdScore">
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7589,'Ù„ÙŠØªØ´ÙŠ_vs_Ù…ÙŠÙ„Ø§Ù†');">
+                                        Ø´Ø§Ù‡Ø¯ Ø§Ù„Ù…Ø¨Ø§Ø±Ø§Ø©
+                                    </button>
+</td>
+<td class="tdScore">
+</td>
+<td class="tdTeam"><p class="teamWrap">Ù…ÙŠÙ„Ø§Ù†</p></td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/af7bbd6a4b0836454ed79db81d622065.gif);"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7">
+<table style="width: 100%">
+<tr>
+<td style="width: auto; float: right; height: auto; vertical-align: middle;">
+                                    Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥ÙŠØ·Ø§Ù„ÙŠ                                </td>
+<td style="width: auto; float: left; height: auto; vertical-align: middle;">
+                                Ø¬Ø§Ø±ÙŠØ© Ø­Ø§Ù„ÙŠØ§                                        <img src="https://beinmatch.tv/assets/images/bim/clock.gif"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/2e2e1adcb304369e482ff6d60bcabb0b.png);"></div></td>
+<td class="tdTeam">ÙÙŠØ§Ø±ÙŠØ§Ù„</td>
+<td class="tdScore">
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7590,'ÙÙŠØ§Ø±ÙŠØ§Ù„_vs_Ø¥Ø´Ø¨ÙŠÙ„ÙŠØ©');">
+                                        Ø´Ø§Ù‡Ø¯ Ø§Ù„Ù…Ø¨Ø§Ø±Ø§Ø©
+                                    </button>
+</td>
+<td class="tdScore">
+</td>
+<td class="tdTeam"><p class="teamWrap">Ø¥Ø´Ø¨ÙŠÙ„ÙŠØ©</p></td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/3209d5ecd8a231244bcaeaccb8b1dcf9.png);"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7">
+<table style="width: 100%">
+<tr>
+<td style="width: auto; float: right; height: auto; vertical-align: middle;">
+                                    Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ                                </td>
+<td style="width: auto; float: left; height: auto; vertical-align: middle;">
+                                Ø¬Ø§Ø±ÙŠØ© Ø­Ø§Ù„ÙŠØ§                                        <img src="https://beinmatch.tv/assets/images/bim/clock.gif"/>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/06a87eb3b97e936e3ba60508f011b3e8.jpg);"></div></td>
+<td class="tdTeam">Ù…Ø§Ù†Ø´Ø³ØªØ± Ø³ÙŠØªÙŠ</td>
+<td class="tdScore">
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7591,'Ù…Ø§Ù†Ø´Ø³ØªØ±_Ø³ÙŠØªÙŠ_vs_Ø¨ÙŠØ±Ù†Ù„ÙŠ');">
+                                        Ø´Ø§Ù‡Ø¯ Ø§Ù„Ù…Ø¨Ø§Ø±Ø§Ø©
+                                    </button>
+</td>
+<td class="tdScore">
+</td>
+<td class="tdTeam"><p class="teamWrap">Ø¨ÙŠØ±Ù†Ù„ÙŠ</p></td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/a9299a76f72ada674bc9bfc010e89972.gif);"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7">
+<table style="width: 100%">
+<tr>
+<td style="width: auto; float: right; height: auto; vertical-align: middle;">
+                                    Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²                                </td>
+<td style="width: auto; float: left; height: auto; vertical-align: middle;">
+                                19:00 GMT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/af5031716cc556007495e0b9c47f3449.gif);"></div></td>
+<td class="tdTeam">Ø¨ÙˆÙ„ÙˆÙ†ÙŠØ§</td>
+<td class="tdScore">
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7592,'Ø¨ÙˆÙ„ÙˆÙ†ÙŠØ§_vs_ÙŠÙˆÙÙ†ØªÙˆØ³');">
+                                        Ø´Ø§Ù‡Ø¯ Ø§Ù„Ù…Ø¨Ø§Ø±Ø§Ø©
+                                    </button>
+</td>
+<td class="tdScore">
+</td>
+<td class="tdTeam"><p class="teamWrap">ÙŠÙˆÙÙ†ØªÙˆØ³</p></td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/73b01d8f1ead50b2a428bd7cd578c224.jpg);"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7">
+<table style="width: 100%">
+<tr>
+<td style="width: auto; float: right; height: auto; vertical-align: middle;">
+                                    Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥ÙŠØ·Ø§Ù„ÙŠ                                </td>
+<td style="width: auto; float: left; height: auto; vertical-align: middle;">
+                                19:45 GMT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/77f826ebefcac25daf85532be20d3f4b.jpg);"></div></td>
+<td class="tdTeam">Ù„ÙŠØºØ§Ù†ÙŠØ³</td>
+<td class="tdScore">
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7593,'Ù„ÙŠØºØ§Ù†ÙŠØ³_vs_ØºØ±Ù†Ø§Ø·Ø©');">
+                                        Ø´Ø§Ù‡Ø¯ Ø§Ù„Ù…Ø¨Ø§Ø±Ø§Ø©
+                                    </button>
+</td>
+<td class="tdScore">
+</td>
+<td class="tdTeam"><p class="teamWrap">ØºØ±Ù†Ø§Ø·Ø©</p></td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/fd6583382cc4bfaaf9f8b3b0ae4f8746.png);"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7">
+<table style="width: 100%">
+<tr>
+<td style="width: auto; float: right; height: auto; vertical-align: middle;">
+                                    Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ                                </td>
+<td style="width: auto; float: left; height: auto; vertical-align: middle;">
+                                20:00 GMT</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<!-- GOALS YESTERDAY -->
+<div id="headerRightSide">
+<p class="p1">Ø£Ù‡Ø¯Ø§Ù ÙˆÙ…Ù„Ø®ØµØ§Øª Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ø£Ù…Ø³</p>
+<p class="p2"></p>
+</div>
+<div id="contentRightSide">
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/f60de32f5709367e01785f5b1bf647c2.png);"></div></td>
+<td>
+<table align="center" class="tabInside">
+<tr>
+<td class="tdTeam">Ø±ÙŠØ§Ù„ Ø³ÙˆØ³ÙŠÙŠØ¯Ø§Ø¯</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: left">1</div>
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7588,'Ø±ÙŠØ§Ù„ Ø³ÙˆØ³ÙŠÙŠØ¯Ø§Ø¯_vs_Ø±ÙŠØ§Ù„ Ù…Ø¯Ø±ÙŠØ¯');">
+                                       Ø´Ø§Ù‡Ø¯ Ø§Ù„Ø£Ù‡Ø¯Ø§Ù
+                                    </button>
+</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: right">2</div>
+</td>
+<td class="tdTeam">Ø±ÙŠØ§Ù„ Ù…Ø¯Ø±ÙŠØ¯</td>
+</tr>
+</table>
+</td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/e806b048ee620fb8c4029ea50b01ff13.jpg)"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7" style="height: auto; vertical-align: middle;">
+                   Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ                    </td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/47aac29fcbe4d12cf1e908824fc2c0fc.jpg);"></div></td>
+<td>
+<table align="center" class="tabInside">
+<tr>
+<td class="tdTeam">Ø¥ÙŠÙØ±ØªÙˆÙ†</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: left">0</div>
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7586,'Ø¥ÙŠÙØ±ØªÙˆÙ†_vs_Ù„ÙŠÙØ±Ø¨ÙˆÙ„');">
+                                       Ø´Ø§Ù‡Ø¯ Ø§Ù„Ø£Ù‡Ø¯Ø§Ù
+                                    </button>
+</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: right">0</div>
+</td>
+<td class="tdTeam">Ù„ÙŠÙØ±Ø¨ÙˆÙ„</td>
+</tr>
+</table>
+</td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/5ed78fe3b8cb7932a9e7637a3c135bdc.gif)"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7" style="height: auto; vertical-align: middle;">
+                   Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²                    </td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/29df199e7b1ff88bbd5f2bbd2bb46aff.gif);"></div></td>
+<td>
+<table align="center" class="tabInside">
+<tr>
+<td class="tdTeam">Ø£Ø³ØªÙˆÙ† ÙÙŠÙ„Ø§</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: left">1</div>
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7583,'Ø£Ø³ØªÙˆÙ† ÙÙŠÙ„Ø§_vs_ØªØ´ÙŠÙ„Ø³ÙŠ');">
+                                       Ø´Ø§Ù‡Ø¯ Ø§Ù„Ø£Ù‡Ø¯Ø§Ù
+                                    </button>
+</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: right">2</div>
+</td>
+<td class="tdTeam">ØªØ´ÙŠÙ„Ø³ÙŠ</td>
+</tr>
+</table>
+</td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/243de991100d592342d5ce429951193c.gif)"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7" style="height: auto; vertical-align: middle;">
+                   Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²                    </td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/4ef06517c87d42944dbe78475e48aded.jpg);"></div></td>
+<td>
+<table align="center" class="tabInside">
+<tr>
+<td class="tdTeam">Ø§Ù†ØªØ± Ù…ÙŠÙ„Ø§Ù†</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: left">2</div>
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7587,'Ø§Ù†ØªØ± Ù…ÙŠÙ„Ø§Ù†_vs_Ø³Ø§Ù…Ø¨Ø¯ÙˆØ±ÙŠØ§');">
+                                       Ø´Ø§Ù‡Ø¯ Ø§Ù„Ø£Ù‡Ø¯Ø§Ù
+                                    </button>
+</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: right">1</div>
+</td>
+<td class="tdTeam">Ø³Ø§Ù…Ø¨Ø¯ÙˆØ±ÙŠØ§</td>
+</tr>
+</table>
+</td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/69dfb40d31a4c363f3842d7ee31004e1.gif)"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7" style="height: auto; vertical-align: middle;">
+                   Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥ÙŠØ·Ø§Ù„ÙŠ                    </td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/cb20a023fc921b97cfffb33f370709b1.jpg);"></div></td>
+<td>
+<table align="center" class="tabInside">
+<tr>
+<td class="tdTeam">Ù†ÙŠÙˆÙƒØ§Ø³Ù„ ÙŠÙˆÙ†Ø§ÙŠØªØ¯</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: left">3</div>
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7582,'Ù†ÙŠÙˆÙƒØ§Ø³Ù„ ÙŠÙˆÙ†Ø§ÙŠØªØ¯_vs_Ø´ÙŠÙÙŠÙ„Ø¯ ÙŠÙˆÙ†Ø§ÙŠØªØ¯');">
+                                       Ø´Ø§Ù‡Ø¯ Ø§Ù„Ø£Ù‡Ø¯Ø§Ù
+                                    </button>
+</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: right">0</div>
+</td>
+<td class="tdTeam">Ø´ÙŠÙÙŠÙ„Ø¯ ÙŠÙˆÙ†Ø§ÙŠØªØ¯</td>
+</tr>
+</table>
+</td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/8fea23e86dd0e8ad14340d4184cc83d8.png)"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7" style="height: auto; vertical-align: middle;">
+                   Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²                    </td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/9fe3386068f9e776c8414277a836a44e.png);"></div></td>
+<td>
+<table align="center" class="tabInside">
+<tr>
+<td class="tdTeam">ÙØ§Ù„Ù†Ø³ÙŠØ§</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: left">2</div>
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7585,'ÙØ§Ù„Ù†Ø³ÙŠØ§_vs_Ø£ÙˆØ³Ø§Ø³ÙˆÙ†Ø§');">
+                                       Ø´Ø§Ù‡Ø¯ Ø§Ù„Ø£Ù‡Ø¯Ø§Ù
+                                    </button>
+</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: right">0</div>
+</td>
+<td class="tdTeam">Ø£ÙˆØ³Ø§Ø³ÙˆÙ†Ø§</td>
+</tr>
+</table>
+</td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/a8c955fb8733d45073c8c4c7a01890c1.png)"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7" style="height: auto; vertical-align: middle;">
+                   Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ                    </td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/922deb9902733ed0987cbc014ea4f0d7.jpg);"></div></td>
+<td>
+<table align="center" class="tabInside">
+<tr>
+<td class="tdTeam">Ø³ÙŠÙ„ØªØ§ ÙÙŠØºÙˆ</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: left">6</div>
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7581,'Ø³ÙŠÙ„ØªØ§ ÙÙŠØºÙˆ_vs_Ø¯ÙŠØ¨ÙˆØ±ØªÙŠÙÙˆ Ø£Ù„Ø§ÙÙŠØ³');">
+                                       Ø´Ø§Ù‡Ø¯ Ø§Ù„Ø£Ù‡Ø¯Ø§Ù
+                                    </button>
+</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: right">0</div>
+</td>
+<td class="tdTeam">Ø¯ÙŠØ¨ÙˆØ±ØªÙŠÙÙˆ Ø£Ù„Ø§ÙÙŠØ³</td>
+</tr>
+</table>
+</td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/dc58c7ba643227d1b368bd20d4b4db56.gif)"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7" style="height: auto; vertical-align: middle;">
+                   Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ                    </td>
+</tr>
+</table>
+<table class="tabIndex">
+<tr>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/33fb268fcb7ba5ac210b206229ccfa5c.png);"></div></td>
+<td>
+<table align="center" class="tabInside">
+<tr>
+<td class="tdTeam">Ø£ØªÙ„Ø§Ù†ØªØ§</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: left">4</div>
+</td>
+<td>
+<button class="btn" onclick="goToMatch(7584,'Ø£ØªÙ„Ø§Ù†ØªØ§_vs_Ø³Ø§Ø³ÙˆÙ„Ùˆ');">
+                                       Ø´Ø§Ù‡Ø¯ Ø§Ù„Ø£Ù‡Ø¯Ø§Ù
+                                    </button>
+</td>
+<td class="tdScore">
+<div id="scoreStl" style="float: right">1</div>
+</td>
+<td class="tdTeam">Ø³Ø§Ø³ÙˆÙ„Ùˆ</td>
+</tr>
+</table>
+</td>
+<td class="tdFlag"><div class="flagrounded" style="background-image: url(https://beinmatch.tv/assets/images/flags/b67508b896250a318498a93d34f870cc.gif)"></div></td>
+</tr>
+<tr>
+<td class="compStl" colspan="7" style="height: auto; vertical-align: middle;">
+                   Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥ÙŠØ·Ø§Ù„ÙŠ                    </td>
+</tr>
+</table>
+</div>
+</div>

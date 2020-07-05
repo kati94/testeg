@@ -495,27 +495,27 @@
 }
 ,
 {
-"src": "https://www.super-kora.tv/channels/bein-sport/bein-sport-hd-2?embed&server=389",
+"src": "https://beinmatch.tv/ok.php?id=1582966311553?autoplay=1",
 "idMatch": 7661
 }
 ,
 {
-"src": "//www.ok.ru/videoembed/1782372441851",
+"src": "//www.dailymotion.com/embed/video/k4Jq6fegO8UDFsw9d0O?autoplay=1 ",
 "idMatch": 7662
 }
 ,
 {
-"src": "https://www.super-kora.tv/channels/bein-sport/bein-sport-hd-2?embed&server=389",
+"src": "https://beinmatch.tv/ok.php?id=1583140178561?autoplay=1",
 "idMatch": 7663
 }
 ,
 {
-"src": "//www.ok.ru/videoembed/1484954279583",
+"src": "//www.dailymotion.com/embed/video/k4Wk88imKR0s5Gw9diz?autoplay=1 ",
 "idMatch": 7664
 }
 ,
 {
-"src": "//www.ok.ru/videoembed/2116841381582",
+"src": "https://www.dailymotion.com/embed/video/x7utqil",
 "idMatch": 7665
 }
 ,
@@ -542,5 +542,55 @@
 {
 "src": "https://www.youtube.com/embed/FlZf0BXy0V0",
 "idMatch": 7670
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7671
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7672
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7673
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7674
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7675
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7676
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7677
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7678
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7679
+}
+,
+{
+"src": "https://www.youtube.com/embed/FlZf0BXy0V0",
+"idMatch": 7680
 }
 ]
